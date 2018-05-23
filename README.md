@@ -1,2 +1,2 @@
-# CPP_Practice
-# For new language 
+/* CPP_Practice */
+/* For new language */
