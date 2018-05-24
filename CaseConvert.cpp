@@ -16,8 +16,8 @@ the delta values of uper and lower case = a - A  = 32.
 *******************************/
 void CaseConvert(string &x)
 {
-    int lenght,i;
-    lenght = x.length();
+    int i;
+   
 
     i=0;
     while(x[i])
